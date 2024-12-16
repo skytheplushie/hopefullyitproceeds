@@ -2,7 +2,7 @@ from django.shortcuts import render
 
 
 def shop_view(request):
-    return render(request, 'fourth_task/platform.html.html')
+    return render(request, 'fourth_task/menu.html.html')
 
 
 def cart_view(request):
